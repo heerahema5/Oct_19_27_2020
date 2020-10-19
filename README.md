@@ -1,1 +1,7 @@
-# Oct_19_27_2020
+```javascript
+const instructor = {
+	email: "prabhu.bits@gmail.com",
+	blog: "http://healthycoder.in",
+	books: ["Spring 3.0 Black book","Practical Ext JS 4"]
+} 
+```
